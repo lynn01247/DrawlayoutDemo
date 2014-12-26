@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">DrawlayoutDemo</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="title">主页</string>
+    <string name="left">左边菜单</string>
+    <string name="right">右边菜单</string>
+    <string name="file">播放文件</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="continues">继续</string>
+    <string name="reset">重放</string>
+    <string name="stop">停止</string>
+</resources>
